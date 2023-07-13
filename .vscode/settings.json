@@ -1,0 +1,26 @@
+{
+    "slither.solcPath": "",
+    "slither.hiddenDetectors": [],
+    "solidity.compileUsingRemoteVersion": "v0.6.11+commit.5ef660b1",
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#63dd26",
+        "activityBar.background": "#63dd26",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#3e74e1",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#63dd26",
+        "statusBar.background": "#4fb51c",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#3c8915",
+        "statusBarItem.remoteBackground": "#4fb51c",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#4fb51c",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#4fb51c99",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#4fb51c"
+}

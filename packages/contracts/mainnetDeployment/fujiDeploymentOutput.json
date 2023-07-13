@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "startBlock": 983777,
+    "deploymentDate": 1630432924000,
+    "network": {
+      "name": "fuji",
+      "chainId": 43113
+    }
+  },
+  "threeDayTimeLock": {
+    "address": "0xCd9CBcadD08415F92F299da624ed541665fAF1E6",
+    "txHash": "0x433ed56c8c75e83515c00ea93c54360f9697f0825bedd7132a39f4ecf0eefcb8"
+  },
+  "twoWeekTimeLock": {
+    "address": "0x285b4C1cA36d7B672dCaA463708CB3a156e044EB",
+    "txHash": "0xfc70c0eeb84ed545bb2ca4b77640721649aaf954c3b1f03c17b8c1b2e0bbf4a2"
+  },
+  "priceFeed": {
+    "address": "0x2232e58262D377bE22Bb24CC724FFC3402F1C4A7",
+    "txHash": "0x808fdfc003b725559aa63a34c7ecc60fc4f8547351329f4039283ff1859ae66e"
+  },
+  "sortedTroves": {
+    "address": "0x72d6cff06D30381fA0F2486FC2b3ee893dFd2A91",
+    "txHash": "0x61d1535d1ca7a9e6a6fec322b86de7e9b65adcde278bd025880d85edc9f196e2"
+  },
+  "troveManager": {
+    "address": "0xCbD2445992CB48f93071dA9bf0399654fD55B9eE",
+    "txHash": "0xe7ba074d0f502765bc65bdbe24f714edda9a496f422f2594193b8aab8dd5ed1b"
+  },
+  "activePool": {
+    "address": "0xCAD9283D5E07d328979Df971116D8aEB1b78834C",
+    "txHash": "0x9d052e1da63a740c837ba52657f65666ba24a5eb0b88ef56ed641b4aaca5144a"
+  },
+  "stabilityPool": {
+    "address": "0x0efb3B3A64fDeF39c8e30Eb7FEb3AC545CAaba62",
+    "txHash": "0xe533a182f5331f050962f8ba0fbfd11c0fe2a425762d1b1d98a4e6739b11079d"
+  },
+  "gasPool": {
+    "address": "0xb2D592d353927B58fb4722965f9FeF6d1364A0F4",
+    "txHash": "0x327cdb1a43ebddc18bd25d6c5b9e9a283ce90a646b01b035d5483ea4e8ee50f5"
+  },
+  "defaultPool": {
+    "address": "0x89da18Fc6A155fb69557A38C646bb7Ab02b65835",
+    "txHash": "0xa18ad5419fc40e7a4a634859de42acc2e51da783934237deefe26c6884d55c05"
+  },
+  "collSurplusPool": {
+    "address": "0xfa4529C0798DbFFd9479Bf9d4f2a6eFf4A99B2aE",
+    "txHash": "0x4c0c4147311d3e17ca7b50a624838dc3bdd47daa6b0bcf91707a74b4d1e4a931"
+  },
+  "borrowerOperations": {
+    "address": "0xF1dA21141B036E42c8781feF718B7cA561b2Beaf",
+    "txHash": "0x05a0b98bc8f36f50136285941d91734c36478e6553e9ec25b1e443491573624a"
+  },
+  "hintHelpers": {
+    "address": "0xaaC5fD51B6705a517d4c96526CEe5ACd4fCc1bf7",
+    "txHash": "0x3e9de8a339409ec36b11d8c69507a3d3b5aad4fa0aeece81bfd8bdc1443415cc"
+  },
+  "tellorCaller": {
+    "address": "0x08ba1e1485839614F453c93C5D59C7b8870a4aA1",
+    "txHash": "0x2670fd55c69301a1833a5a408f5683f2bd43e340cecc2957d9d7c16efc8988f5"
+  },
+  "troveManagerLiquidations": {
+    "address": "0xcfaD4f06Bf5C9762102d2e1B2D169B678Da5bbb2",
+    "txHash": "0x9b401016680c8cfb215f61c0188c685a6c379b5cf5e7f648257eef54047bda34"
+  },
+  "troveManagerRedemptions": {
+    "address": "0x00893c15E7E114Ca951bc87576F18e3030c934e8",
+    "txHash": "0x05cc97b682b5c1ed8886f757a9b83b4298a9dfd3a0675842b51ced1e7d05a7da"
+  },
+  "whitelist": {
+    "address": "0xE9F6Df3453f21D4F0D4e0DD5771e8815fdeE2b10",
+    "txHash": "0xd05a6ebcf6f1e560375d7eb3c1af3b2b7b43bec0195c4f66d0a4f70fd99a7ab7"
+  },
+  "yetiController": {
+    "address": "0x24b58219e4569899BcF4d97aD0C65e6c025A0a98",
+    "txHash": "0xf30174df525bbc98494ef076961700eacea9a3e8509e2ae10ffe0b1d9faa9232"
+  },
+  "yusdToken": {
+    "address": "0x307b46207feC7e48AB166409470378db8c9Ff1c7",
+    "txHash": "0xe008d0858650840309f8f308379979849feecd50ff9b4fb7e6758d39689f8200"
+  },
+  "uniToken": {
+    "address": "0x99301369542113b4AfB3183F42C6bD5DC84CFf59"
+  },
+  "unipool": {
+    "address": "0xB859b8b565C9F14aA4881EC7b3861F2b42d0dD7A",
+    "txHash": "0x8d5ce2b27ab6b8b7848a44ce137bef5c82ed0dbec81737dee33b66fb92be53b0"
+  },
+  "sYETI": {
+    "address": "0x27e2b89cF4054c73694441497a69192ee06167f4",
+    "txHash": "0xe89c8622a3731a11fa8270a0066ff872dee3818d86b6f066bafc8d755d9d3e4f"
+  },
+  "lockupContractFactory": {
+    "address": "0x3AdeE00c95c3B7700b0dA4fcdE856617c9472515",
+    "txHash": "0x0b8f455be0139f2adc26f0b2884c4c5901c81369911b32b35bab53797e7b384b"
+  },
+  "veYETI": {
+    "address": "0x887b1001872aB54EC7E65Dd6D2BC8926b97EC372",
+    "txHash": "0x99d2f726c5c920059bd3d3efe9bf40af127dd1585ff6dc7fa7a3246db36f32be"
+  },
+  "veYETIEmissions": {
+    "address": "0x9942bdFcA92AE1f98e24d5ee4d0FA28e40901D72",
+    "txHash": "0x083dba40f7989960de0561d73c1f8cef09f65f90a4bba60c1de753ac1c9486c8"
+  },
+  "communityIssuance": {
+    "address": "0x42221071A8AAB00686d5238386A9956dE9D0406c",
+    "txHash": "0x6a716fb1e911e203171d76a873e06567303d5f32f76c467ed18361febd936967"
+  },
+  "yetiToken": {
+    "address": "0x8Ad597E11d1530c5c802326d4037a658B3eb233C",
+    "txHash": "0xcff3c2a804b6e16a7d113aa99ece2ba3a4a5e9775470cd462a75f181bd844ac8"
+  },
+  "yetiFinanceTreasury": {
+    "address": "0x5a987151e87Ae82F48782D87ecE46bfC6f57cdAD",
+    "txHash": "0xbe34ce696239b84976fbe7c03968024d2c5b121cac0b6d4bd9f0478d01ec88b6"
+  }
+}
