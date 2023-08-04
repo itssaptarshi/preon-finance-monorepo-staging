@@ -28,7 +28,7 @@
   "dependencies": {
     "@nomiclabs/hardhat-ethers": "^2.2.2",
     "@openzeppelin/contracts-upgradeable": "^4.8.1",
-    "@openzeppelin/hardhat-upgrades": "^1.22.1",
+    "@openzeppelin/hardhat-upgrades": "^2.1.0",
     "decimal.js": "^10.2.0",
     "eth-mutants": "^0.1.1",
     "ethereumjs-util": "^7.0.9",
